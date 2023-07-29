@@ -1,8 +1,6 @@
 # NotebookApp build
 
-I build simple Notebook app using Angular.
-
-https://github.com/slava1000uk/notebook-app
+I build simple Notebook app using Angular:   https://github.com/slava1000uk/notebook-app
 
 You can read, write, edit, delete notes.
 
